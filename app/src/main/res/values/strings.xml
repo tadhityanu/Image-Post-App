@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SubmissionIntermediate</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_password">Password</string>
+    <string name="title_login">LOGIN</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="signup">sign up</string>
+    <string name="title_sign_up">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="masukkan_nama">masukkan nama</string>
+    <string name="masukkan_email">masukkan email</string>
+    <string name="masukkan_password">masukkan password</string>
+    <string name="desc_hint">Enter the Description</string>
+    <string name="logout">Logout</string>
+    <string name="add_story">Add Story</string>
+    <string name="description">description</string>
+    <string name="date">date</string>
+    <string name="story_page_title">STORY PAGE</string>
+    <string name="wellcome_to_story_app">WELLCOME TO STORY APP</string>
+    <string name="title_activity_maps_story">MapsStoryActivity</string>
+    <string name="map">map</string>
+    <string name="retry">retry</string>
+</resources>
